@@ -15,3 +15,5 @@ tensor_toolbox-v3.4: tensor toolbox for Matlab (necessary for TRIO)\
 SLEP-master: Sparse Learning with Efficient Projections toolbox for Matlab (necessary for TRIO)\
 DISCOM: DISCOM method\
 CP regression: TensorReg toolbox for CP regression
+
+[![View Tensor Regression for Incomplete Observations (TRIO) on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/135897-tensor-regression-for-incomplete-observations-trio)
