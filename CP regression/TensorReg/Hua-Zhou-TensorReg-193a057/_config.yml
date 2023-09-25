@@ -1,0 +1,8 @@
+title: TensorReg
+description: Matlab toolbox for tensor regression
+google_analytics: UA-42646483-1
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
